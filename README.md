@@ -5,6 +5,7 @@ XDocReport는 내부적으로 freemarker, velocity 등의 템플릿 엔진을 �
 docx 문서를 생성할 수 있게 해주는 도구이다. 
 
 사용방법도 매우 간단한데 아래와 같이 템플릿을 준비하고
+<img src="https://raw.githubusercontent.com/dlxotn216/docx-generator/master/src/main/resources/static/img01.png" />
  
  
  다음과 같이 준비 된 model을 넣어주면 
@@ -46,4 +47,5 @@ report.process(context, out);
 
 ```
 
-손쉽게 결과를 얻을 수 있다.
+손쉽게 결과를 얻을 수 있다.    
+<img src="https://raw.githubusercontent.com/dlxotn216/docx-generator/master/src/main/resources/static/img02.png">
